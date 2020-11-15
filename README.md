@@ -1,5 +1,5 @@
 # Bloo
-Grade 11 culminating project for ICS3U.
+Grade 11 culminating project for ICS3U written in Python. Platformer game with currency and enemies.
 
 Instructions
 
