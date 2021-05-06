@@ -35,6 +35,6 @@ Use the space bar or mouse to attack
 
 ![Shop](https://i.imgur.com/KfCcMLg.png)
 
-![Desert](https://i.imgur.com/ghBfKp5.png)
+![Desert](https://i.imgur.com/EYVXyTY.png)
 
 ![Boss Battle](https://i.imgur.com/ghBfKp5.png)
